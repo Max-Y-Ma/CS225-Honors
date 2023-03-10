@@ -1,0 +1,9 @@
+/workspaces/cs225/CS225-Honors/a_stree/build/CMakeFiles/test.dir
+/workspaces/cs225/CS225-Honors/a_stree/build/CMakeFiles/main.dir
+/workspaces/cs225/CS225-Honors/a_stree/build/CMakeFiles/edit_cache.dir
+/workspaces/cs225/CS225-Honors/a_stree/build/CMakeFiles/rebuild_cache.dir
+/workspaces/cs225/CS225-Honors/a_stree/build/lib/CMakeFiles/edit_cache.dir
+/workspaces/cs225/CS225-Honors/a_stree/build/lib/CMakeFiles/rebuild_cache.dir
+/workspaces/cs225/CS225-Honors/a_stree/build/src/CMakeFiles/src.dir
+/workspaces/cs225/CS225-Honors/a_stree/build/src/CMakeFiles/edit_cache.dir
+/workspaces/cs225/CS225-Honors/a_stree/build/src/CMakeFiles/rebuild_cache.dir
